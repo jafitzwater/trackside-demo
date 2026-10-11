@@ -1,6 +1,6 @@
 # Trackside demo
 
-This is the **built demo** of Trackside, a pinewood derby race manager (a Derby Magic replacement).
+This is the **built demo** of Trackside, a derby race manager (a Derby Magic replacement).
 Only the compiled web app is published here; the source code is in a private repository.
 
 Try it: https://jafitzwater.github.io/trackside-demo/
