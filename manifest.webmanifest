@@ -1,4 +1,5 @@
 {
+  "id": "./",
   "name": "Trackside",
   "short_name": "Trackside",
   "description": "Derby race manager: roster, schedule, timer, standings. Works offline in the browser.",
