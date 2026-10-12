@@ -1,15 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Trackside">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Trackside">
 <title>Trackside</title>
-<rect width="64" height="64" rx="14" fill="#111827"/>
-<rect x="14" y="16" width="36" height="10" fill="none" stroke="#ffffff" stroke-width="1.5"/>
-<rect x="14" y="16" width="6" height="5" fill="#ffffff"/>
-<rect x="20" y="21" width="6" height="5" fill="#ffffff"/>
-<rect x="26" y="16" width="6" height="5" fill="#ffffff"/>
-<rect x="32" y="21" width="6" height="5" fill="#ffffff"/>
-<rect x="38" y="16" width="6" height="5" fill="#ffffff"/>
-<rect x="44" y="21" width="6" height="5" fill="#ffffff"/>
-<rect x="26" y="26" width="12" height="24" fill="#ffffff"/>
-<rect x="31.2" y="30" width="1.6" height="4" fill="#111827"/>
-<rect x="31.2" y="37" width="1.6" height="4" fill="#111827"/>
-<rect x="31.2" y="44" width="1.6" height="4" fill="#111827"/>
+<rect x="0" y="0" width="64.00" height="64.00" rx="14.00" fill="#6d28d9"/>
+<rect x="14.00" y="14.00" width="36.00" height="10.00" fill="none" stroke="#ffffff" stroke-width="1.50"/>
+<rect x="14.00" y="14.00" width="6.00" height="5.00" fill="#ffffff"/>
+<rect x="20.00" y="19.00" width="6.00" height="5.00" fill="#ffffff"/>
+<rect x="26.00" y="14.00" width="6.00" height="5.00" fill="#ffffff"/>
+<rect x="32.00" y="19.00" width="6.00" height="5.00" fill="#ffffff"/>
+<rect x="38.00" y="14.00" width="6.00" height="5.00" fill="#ffffff"/>
+<rect x="44.00" y="19.00" width="6.00" height="5.00" fill="#ffffff"/>
+<rect x="25.00" y="24.00" width="14.00" height="27.00" fill="#ffffff"/>
+<rect x="30.70" y="28.00" width="2.60" height="5.00" fill="#6d28d9"/>
+<rect x="30.70" y="35.50" width="2.60" height="5.00" fill="#6d28d9"/>
+<rect x="30.70" y="43.00" width="2.60" height="5.00" fill="#6d28d9"/>
 </svg>
