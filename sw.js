@@ -1,4 +1,4 @@
-/* Trackside service worker (hand-written, no dependencies). Makes the built app work offline after the first load.
+/* TrackStar Derby service worker (hand-written, no dependencies). Makes the built app work offline after the first load.
  *
  * - Precaches ONLY the app shell: index.html, the hashed JS/CSS it references, the manifest and the icons.
  * - Serves those from the cache, and every in-scope navigation (any hash route) with the cached index.html.

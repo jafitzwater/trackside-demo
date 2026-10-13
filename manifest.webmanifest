@@ -1,7 +1,7 @@
 {
   "id": "./",
-  "name": "Trackside",
-  "short_name": "Trackside",
+  "name": "TrackStar Derby",
+  "short_name": "TrackStar",
   "description": "Derby race manager: roster, schedule, timer, standings. Works offline in the browser.",
   "start_url": "./",
   "scope": "./",
