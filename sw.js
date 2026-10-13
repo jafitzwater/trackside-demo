@@ -9,7 +9,7 @@
 const VERSION = new URL(self.location.href).searchParams.get('v') || 'unversioned';
 const PREFIX = 'trackside-shell-';
 const CACHE = PREFIX + VERSION;
-const SCOPE = self.registration.scope; // ends with '/', e.g. https://jafitzwater.github.io/trackside-demo/
+const SCOPE = self.registration.scope; // ends with '/', e.g. https://<owner>.github.io/<repo>/
 const STATIC = [
   'manifest.webmanifest',
   'favicon.svg',
